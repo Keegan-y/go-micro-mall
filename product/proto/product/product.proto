@@ -1,0 +1,85 @@
+syntax = "proto3";
+
+package go.micro.service.product;
+
+// 定义一个商品的服务
+service Product {
+	/*新增商品的方法
+	 *创建第一个接口
+	 */
+	rpc AddProduct(ProductInfo) returns (ResponseProduct){}
+	// 根据商品ID来查找商品的方法
+	rpc FindProductByID(RequestID) returns (ProductInfo){}
+	// 更新商品的方法
+	rpc UpdateProduct(ProductInfo) returns (Response) {}
+	// 根据商品ID来删除商品的方法
+	rpc DeleteProductByID(RequestID) returns (Response) {}
+	// 查找所有商品的方法
+	rpc FindAllProduct(RequestAll) returns (AllProduct){}
+}
+
+/*定义一个商品信息的消息
+*message是固定的关键字
+*ProductInfo是自定义类名，后面会使用到ProductInfo。
+*/
+message ProductInfo {
+	int64 id = 1;
+	string product_name = 2;
+	string product_sku = 3;
+	double product_price = 4;
+	string product_description = 5;
+	int64  product_category_id = 6;
+	repeated ProductImage product_image = 7;
+	repeated ProductSize product_size = 8;
+	ProductSeo product_seo = 9;
+
+}
+
+// 定义一个商品图片的消息
+message ProductImage {
+	int64 id = 1;
+	string image_name = 2;
+	string image_code = 3;
+	string image_url = 4;
+}
+
+// 定义一个商品尺寸的消息
+message ProductSize{
+	int64 id = 1;
+	string size_name = 2;
+	string size_code = 3;
+}
+
+// 定义一个商品seo的消息
+message ProductSeo {
+	int64 id = 1;
+	string seo_title = 2;
+	string seo_keywords = 3;
+	string seo_description =4;
+	string seo_code = 5;
+}
+
+// 定义一个响应商品的消息
+message ResponseProduct {
+	int64 product_id = 1;
+}
+
+// 定义一个请求ID的消息
+message RequestID {
+	int64 product_id = 1;
+}
+
+// 定义一个响应的消息
+message Response {
+	string msg = 1;
+}
+
+// 定义一个返回所有的消息
+message RequestAll{
+
+}
+
+// 定义一个所有商品的消息
+message AllProduct{
+	repeated ProductInfo product_info =1;
+}

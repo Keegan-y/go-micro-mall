@@ -1,0 +1,58 @@
+{"level":"error","ts":"2021-10-26T04:39:23.452+0800","caller":"payment/main.go:27","msg":"error loading source consul: source not found: /micro/config"}
+{"level":"error","ts":"2021-10-26T04:39:23.623+0800","caller":"payment/main.go:48","msg":"dial tcp :0: connect: can't assign requested address"}
+{"level":"error","ts":"2021-10-26T04:41:08.215+0800","caller":"payment/main.go:27","msg":"error loading source consul: source not found: /micro/config"}
+{"level":"error","ts":"2021-10-26T04:41:08.263+0800","caller":"payment/main.go:48","msg":"dial tcp :0: connect: can't assign requested address"}
+{"level":"error","ts":"2021-10-26T06:26:23.697+0800","caller":"handler/payment.go:41","msg":"record not found"}
+{"level":"error","ts":"2021-10-26T06:26:23.852+0800","caller":"handler/payment.go:41","msg":"record not found"}
+{"level":"error","ts":"2021-10-26T06:26:37.690+0800","caller":"handler/payment.go:41","msg":"record not found"}
+{"level":"error","ts":"2021-10-26T06:26:37.818+0800","caller":"handler/payment.go:41","msg":"record not found"}
+{"level":"error","ts":"2021-10-26T06:32:07.088+0800","caller":"handler/payment.go:41","msg":"record not found"}
+{"level":"error","ts":"2021-10-26T06:32:07.203+0800","caller":"handler/payment.go:41","msg":"record not found"}
+{"level":"error","ts":"2021-10-26T18:18:29.376+0800","caller":"payment/main.go:27","msg":"error loading source consul: source not found: /micro/config"}
+{"level":"error","ts":"2021-10-26T18:18:29.790+0800","caller":"payment/main.go:48","msg":"dial tcp :0: connect: can't assign requested address"}
+{"level":"error","ts":"2021-10-26T18:34:13.155+0800","caller":"payment/main.go:27","msg":"error loading source consul: source not found: /micro/config"}
+{"level":"error","ts":"2021-10-26T18:34:13.192+0800","caller":"payment/main.go:48","msg":"dial tcp :0: connect: can't assign requested address"}
+{"level":"error","ts":"2021-10-26T18:37:46.345+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T18:37:48.521+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:18:51.989+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:18:52.114+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:18:59.056+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:18:59.169+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:19:02.499+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:19:02.611+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:19:04.267+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:19:04.378+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:19:08.799+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:19:08.913+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:19:21.753+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:19:21.861+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:19:29.788+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:19:29.896+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:20:21.078+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:20:21.190+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:20:35.026+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:20:35.153+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:20:38.695+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:20:38.805+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:22:06.116+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:22:06.228+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:22:12.304+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:22:12.419+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:22:27.116+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:22:27.224+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:22:29.768+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:22:29.877+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:29:21.334+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T19:29:21.446+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T22:36:25.279+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T22:36:25.415+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T22:36:35.332+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T22:36:35.455+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T22:36:48.576+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T22:36:48.700+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T22:38:11.816+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T22:38:11.927+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T22:38:31.665+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T22:38:31.792+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T22:38:46.163+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}
+{"level":"error","ts":"2021-10-26T22:38:46.287+0800","caller":"handler/payment.go:41","msg":"sql: database is closed"}

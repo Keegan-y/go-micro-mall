@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+package go.micro.service.payment;
+
+service Payment {
+	rpc AddPayment(PaymentInfo) returns (PaymentID) {}
+	rpc UpdatePayment(PaymentInfo) returns (Response){}
+	rpc DeletePaymentByID(PaymentID) returns (Response) {}
+	rpc FindPaymentByID(PaymentID) returns (PaymentInfo){}
+	rpc FindAllPayment(All) returns (PaymentAll){}
+}
+
+message PaymentInfo {
+	int64 id = 1;
+	string payment_name = 2;
+	string payment_sid = 3;
+	bool payment_status = 4;
+	string Payment_image = 5;
+}
+
+message PaymentID {
+	int64 payment_id = 1;
+}
+
+message Response {
+	string msg = 1;
+}
+
+message All{
+
+}
+
+message PaymentAll{
+	repeated PaymentInfo payment_info =1;
+}

@@ -1,0 +1,91 @@
+// 使用v3版本
+syntax = "proto3";
+
+// 包名，通过protoc生成go文件
+package go.micro.service.category;
+
+// 定义一个分类的服务
+service Category {
+	// CreateCategory方法
+	rpc CreateCategory(CategoryRequest) returns (CreateCategoryResponse) {}
+
+	// UpdateCategory方法
+	rpc UpdateCategory(CategoryRequest) returns (UpdateCategoryResponse) {}
+
+	// DeleteCategory方法
+	rpc DeleteCategory(DeleteCategoryRequest) returns (DeleteCategoryResponse){}
+
+	// FindCategoryByName方法
+	rpc FindCategoryByName(FindByNameRequest) returns (CategoryResponse) {}
+
+	// FindCategoryByID方法
+	rpc FindCategoryByID(FindByIdRequest) returns (CategoryResponse){}
+
+	// FindCategoryByLevel方法
+	rpc FindCategoryByLevel(FindByLevelRequest) returns (FindAllResponse) {}
+
+	// FindCategoryByParent方法
+	rpc FindCategoryByParent(FindByParentRequest) returns (FindAllResponse) {}
+
+	// FindAllCategory方法
+	rpc FindAllCategory(FindAllRequest) returns (FindAllResponse){}
+}
+
+// 定义一个分类的请求消息，包含category_name、category_level等5个字段
+message CategoryRequest {
+	string category_name = 1;
+	uint32 category_level = 2;
+	int64 category_parent = 3;
+	string category_image = 4;
+	string category_description = 5;
+}
+// 定义一个分类的响应消息，包含id、category_name、category_level等6个字段
+message CategoryResponse {
+	int64 id = 1;
+	string category_name =2;
+	uint32 category_level = 3;
+	int64 category_parent =4;
+	string category_images =5;
+	string category_description =6;
+}
+
+message DeleteCategoryRequest {
+	int64 category_id =1 ;
+}
+
+message DeleteCategoryResponse {
+	string message =1;
+}
+//
+message FindByNameRequest {
+	string category_name =1;
+}
+
+message FindByIdRequest {
+	int64 category_id = 1;
+}
+
+message FindByLevelRequest {
+	uint32 level =1;
+}
+
+message FindByParentRequest {
+	int64 parent_id =1;
+}
+
+message FindAllRequest {
+
+}
+
+message FindAllResponse {
+	repeated CategoryResponse category =1;
+}
+
+message CreateCategoryResponse {
+	string message =1 ;
+	int64 category_id =2;
+}
+
+message UpdateCategoryResponse {
+	string message = 1;
+}
