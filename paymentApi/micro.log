@@ -1,0 +1,220 @@
+{"level":"info","ts":"2021-10-26T18:37:45.923+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T18:37:46.362+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T18:37:48.519+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T18:37:48.522+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:18:51.957+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:18:51.995+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:18:52.112+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:18:52.114+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:18:59.053+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:18:59.056+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:18:59.167+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:18:59.169+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:19:02.496+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:19:02.499+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:19:02.610+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:19:02.612+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:19:04.266+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:19:04.268+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:19:04.377+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:19:04.379+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:19:08.795+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:19:08.800+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:19:08.911+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:19:08.913+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:19:21.751+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:19:21.753+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:19:21.860+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:19:21.861+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:19:29.785+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:19:29.788+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:19:29.895+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:19:29.896+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:20:21.053+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:20:21.079+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:20:21.188+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:20:21.190+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:20:35.025+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:20:35.027+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:20:35.152+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:20:35.153+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:20:38.694+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:20:38.695+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:20:38.804+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:20:38.806+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:22:06.107+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:22:06.118+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:22:06.225+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:22:06.228+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:22:12.303+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:22:12.305+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:22:12.417+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:22:12.419+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:22:27.114+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:22:27.117+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:22:27.223+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:22:27.224+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:22:29.767+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:22:29.768+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:22:29.876+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:22:29.878+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:29:21.323+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:29:21.335+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T19:29:21.445+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T19:29:21.447+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T22:36:25.247+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:36:25.287+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T22:36:25.413+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:36:25.416+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T22:36:35.330+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:36:35.333+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T22:36:35.452+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:36:35.456+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T22:36:48.574+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:36:48.576+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T22:36:48.697+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:36:48.701+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T22:38:11.802+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:38:11.817+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T22:38:11.925+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:38:11.927+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T22:38:31.663+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:38:31.666+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T22:38:31.790+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:38:31.793+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T22:38:46.155+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:38:46.164+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T22:38:46.285+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:38:46.287+0800","caller":"handler/paymentApi.go:86","msg":"ClientID, Secret and APIBase are required to create a Client"}
+{"level":"info","ts":"2021-10-26T22:40:56.150+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:41:01.176+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:41:03.825+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:41:06.027+0800","caller":"handler/paymentApi.go:97","msg":"&{0xc0003a4cd0 [] [{https://api.sandbox.paypal.com/v1/payments/payouts/P3NCTJFUXMUPA self GET  application/json}]}"}
+{"level":"error","ts":"2021-10-26T22:41:06.549+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/P3NCTJFUXMUPA Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:41:06.549+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:41:08.855+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:41:10.312+0800","caller":"handler/paymentApi.go:97","msg":"&{0xc0003a5220 [] [{https://api.sandbox.paypal.com/v1/payments/payouts/C37Q45YBVZ2TQ self GET  application/json}]}"}
+{"level":"error","ts":"2021-10-26T22:41:11.524+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/C37Q45YBVZ2TQ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:41:11.525+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:41:11.654+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:41:13.871+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:41:15.308+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/C37Q45YBVZ2TQ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:41:15.308+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:41:17.724+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:41:20.932+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:41:21.124+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/C37Q45YBVZ2TQ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:41:21.124+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:41:22.878+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/P3NCTJFUXMUPA Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:41:22.878+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:41:22.998+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:41:25.952+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:41:25.959+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/P3NCTJFUXMUPA Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:41:25.959+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:41:26.943+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/P3NCTJFUXMUPA Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:41:26.944+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:41:27.065+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:41:29.767+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/P3NCTJFUXMUPA Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:41:29.767+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:41:29.865+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/P3NCTJFUXMUPA Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:41:29.866+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:41:41.132+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:41:42.170+0800","caller":"handler/paymentApi.go:97","msg":"&{0xc0001db810 [] [{https://api.sandbox.paypal.com/v1/payments/payouts/Z28QVWW67LGDE self GET  application/json}]}"}
+{"level":"info","ts":"2021-10-26T22:42:53.464+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:42:58.487+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:42:58.991+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:43:04.016+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:43:04.172+0800","caller":"handler/paymentApi.go:91","msg":"Post \"https://api.sandbox.paypal.com/v1/oauth2/token\": net/http: TLS handshake timeout"}
+{"level":"info","ts":"2021-10-26T22:43:05.838+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:43:06.609+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/Z28QVWW67LGDE Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:43:06.610+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:43:06.610+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 401 Authentication failed due to invalid authentication credentials or a missing Authorization header., []"}
+{"level":"info","ts":"2021-10-26T22:43:06.610+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:43:07.167+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/Z28QVWW67LGDE Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:43:07.167+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:43:07.280+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:43:08.095+0800","caller":"handler/paymentApi.go:97","msg":"&{0xc0001339a0 [] [{https://api.sandbox.paypal.com/v1/payments/payouts/FA39CDVYXU9P2 self GET  application/json}]}"}
+{"level":"error","ts":"2021-10-26T22:43:09.609+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/Z28QVWW67LGDE Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:43:09.609+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:43:10.419+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FA39CDVYXU9P2 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:43:10.420+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:55:41.098+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:55:44.125+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:55:46.573+0800","caller":"handler/paymentApi.go:97","msg":"&{0xc0002c6640 [] [{https://api.sandbox.paypal.com/v1/payments/payouts/UKVBSKPEAYKEJ self GET  application/json}]}"}
+{"level":"info","ts":"2021-10-26T22:55:48.307+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:55:48.412+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FA39CDVYXU9P2 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:55:48.412+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:55:48.527+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:55:50.735+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:55:50.753+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FA39CDVYXU9P2 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:55:50.753+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:55:52.158+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FA39CDVYXU9P2 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:55:52.159+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:55:52.281+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:55:52.660+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FA39CDVYXU9P2 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:55:52.660+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:55:52.779+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:55:53.990+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FA39CDVYXU9P2 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:55:53.990+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:55:55.218+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FA39CDVYXU9P2 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:55:55.219+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:56:02.156+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:56:07.173+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:56:08.521+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FA39CDVYXU9P2 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:08.521+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:56:08.647+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:56:11.988+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FA39CDVYXU9P2 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:11.988+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:56:13.502+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:56:14.472+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/UKVBSKPEAYKEJ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:14.472+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:56:14.595+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:56:16.307+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/UKVBSKPEAYKEJ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:16.307+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:56:19.618+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:56:19.634+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/FA39CDVYXU9P2 Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:19.634+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:56:23.257+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/UKVBSKPEAYKEJ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:23.258+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:56:23.382+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:56:24.653+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:56:27.173+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/UKVBSKPEAYKEJ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:27.174+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:56:27.623+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/UKVBSKPEAYKEJ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:27.623+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:56:27.751+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:56:29.525+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/UKVBSKPEAYKEJ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:29.526+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:56:36.416+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:56:37.584+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/UKVBSKPEAYKEJ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:37.584+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:56:37.711+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:56:38.382+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:56:39.900+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/UKVBSKPEAYKEJ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:39.900+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:56:42.086+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/UKVBSKPEAYKEJ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:42.087+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:56:42.205+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:56:43.423+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:56:43.579+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:56:44.234+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/UKVBSKPEAYKEJ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:44.234+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:56:44.909+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/UKVBSKPEAYKEJ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:44.909+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:56:45.022+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:56:46.590+0800","caller":"handler/paymentApi.go:97","msg":"&{0xc0001e4f50 [] [{https://api.sandbox.paypal.com/v1/payments/payouts/ZBVAJGCXYK5GW self GET  application/json}]}"}
+{"level":"info","ts":"2021-10-26T22:56:47.194+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:56:47.455+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/UKVBSKPEAYKEJ Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:47.456+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:56:50.169+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/ZBVAJGCXYK5GW Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:50.169+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:56:50.286+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-26T22:56:52.212+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:56:53.187+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/ZBVAJGCXYK5GW Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:53.187+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-26T22:56:53.301+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"error","ts":"2021-10-26T22:56:54.056+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/ZBVAJGCXYK5GW Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:54.056+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"error","ts":"2021-10-26T22:56:55.187+0800","caller":"handler/paymentApi.go:95","msg":"POST https://api.sandbox.paypal.com/v1/payments/payouts: 400 User business error., [{Field:SENDER_BATCH_ID Issue:Batch with given sender_batch_id already exists Links:[{Href:https://api.sandbox.paypal.com/v1/payments/payouts/ZBVAJGCXYK5GW Rel:self Method:GET Description: Enctype:application/json}]}]"}
+{"level":"info","ts":"2021-10-26T22:56:55.187+0800","caller":"handler/paymentApi.go:97","msg":"&{<nil> [] []}"}
+{"level":"info","ts":"2021-10-27T00:01:29.903+0800","caller":"paymentApi/main.go:93","msg":"go.micro.service.payment.Payment.FindPaymentByID"}
+{"level":"info","ts":"2021-10-27T00:01:33.034+0800","caller":"handler/paymentApi.go:97","msg":"&{0xc0002c6000 [] [{https://api.sandbox.paypal.com/v1/payments/payouts/LT966PMZYGK5Q self GET  application/json}]}"}

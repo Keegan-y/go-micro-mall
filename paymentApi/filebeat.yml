@@ -1,0 +1,9 @@
+# 输入
+filebeat.inputs:
+  - type: log
+    enabled: true
+    paths:
+      - ./*.log
+#输出
+output.logstash:
+  hosts: ["localhost:5044"]

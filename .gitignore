@@ -1,0 +1,8 @@
+# caches
+.DS_Store
+# python
+.venv
+__pycache__
+.mypy_cache
+.pytest_cache
+.idea

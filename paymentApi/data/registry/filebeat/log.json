@@ -1,0 +1,10 @@
+{"op":"set","id":1}
+{"k":"filebeat::logs::native::23409793-16777233","v":{"ttl":-1,"identifier_name":"native","source":"/Users/keagen/Developer/git.imooc.com/cap_weifuwu/git.imooc.com/keegan/paymentApi/micro.log","prev_id":"","offset":0,"timestamp":[2061706274080,1635244675],"type":"log","FileStateOS":{"inode":23409793,"device":16777233},"id":"native::23409793-16777233"}}
+{"op":"set","id":2}
+{"k":"filebeat::logs::native::23409793-16777233","v":{"source":"/Users/keagen/Developer/git.imooc.com/cap_weifuwu/git.imooc.com/keegan/paymentApi/micro.log","ttl":-1,"type":"log","FileStateOS":{"inode":23409793,"device":16777233},"identifier_name":"native","id":"native::23409793-16777233","offset":0,"timestamp":[2061706274080,1635244675],"prev_id":""}}
+{"op":"set","id":3}
+{"k":"filebeat::logs::native::23409793-16777233","v":{"id":"native::23409793-16777233","prev_id":"","offset":0,"timestamp":[2061592273080,1635246307],"ttl":-1,"type":"log","source":"/Users/keagen/Developer/git.imooc.com/cap_weifuwu/git.imooc.com/keegan/paymentApi/micro.log","FileStateOS":{"inode":23409793,"device":16777233},"identifier_name":"native"}}
+{"op":"set","id":4}
+{"k":"filebeat::logs::native::23409793-16777233","v":{"prev_id":"","FileStateOS":{"inode":23409793,"device":16777233},"timestamp":[2061598192080,1635246307],"ttl":-1,"type":"log","identifier_name":"native","id":"native::23409793-16777233","source":"/Users/keagen/Developer/git.imooc.com/cap_weifuwu/git.imooc.com/keegan/paymentApi/micro.log","offset":0}}
+{"op":"set","id":5}
+{"k":"filebeat::logs::native::23409793-16777233","v":{"FileStateOS":{"inode":23409793,"device":16777233},"id":"native::23409793-16777233","prev_id":"","source":"/Users/keagen/Developer/git.imooc.com/cap_weifuwu/git.imooc.com/keegan/paymentApi/micro.log","offset":0,"timestamp":[2061598192080,1635246307],"ttl":-1,"type":"log","identifier_name":"native"}}

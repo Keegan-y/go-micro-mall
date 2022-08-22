@@ -1,0 +1,58 @@
+syntax = "proto3";
+
+package go.micro.service.order;
+
+service Order {
+	rpc GetOrderByID(OrderID) returns (OrderInfo){}
+	rpc GetAllOrder(AllOrderRequest) returns (AllOrder){}
+	rpc CreateOrder(OrderInfo) returns (OrderID){}
+	rpc DeleteOrderByID(OrderID) returns (Response){}
+	rpc UpdateOrderPayStatus(PayStatus) returns (Response){}
+	rpc UpdateOrderShipStatus(ShipStatus) returns (Response){}
+	rpc UpdateOrder(OrderInfo) returns (Response){}
+}
+
+message AllOrderRequest {
+
+}
+
+message AllOrder{
+	repeated OrderInfo order_info = 1;
+}
+
+
+message OrderID {
+	int64 order_id = 1;
+}
+
+message OrderInfo{
+	int64 id = 1;
+	int32 pay_status =2;
+	int32 ship_status =3;
+	double price =4;
+	repeated OrderDetail order_detail =5;
+}
+
+message OrderDetail {
+	int64 id = 1;
+	int64 product_id =2;
+	int64 product_num =3;
+	int64 product_size_id =4;
+	int64 product_price =5;
+	int64 order_id =6;
+}
+
+message Response{
+	string msg = 1;
+}
+
+message PayStatus{
+	int64 order_id =1;
+	int32 pay_status =2;
+}
+
+message ShipStatus{
+	int64 order_id =1;
+	int32 ship_status =2;
+}
+
